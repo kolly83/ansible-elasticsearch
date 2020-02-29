@@ -1,4 +1,5 @@
 # ansible-elasticsearch
+<<<<<<< HEAD
 [![Build Status](https://img.shields.io/jenkins/s/https/devops-ci.elastic.co/job/elastic+ansible-elasticsearch+master.svg)](https://devops-ci.elastic.co/job/elastic+ansible-elasticsearch+master/)
 [![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-elastic.elasticsearch-blue.svg)](https://galaxy.ansible.com/elastic/elasticsearch/)
 
@@ -485,3 +486,6 @@ To define proxy globally, set the following variables:
 ## Questions on Usage
 
 We welcome questions on how to use the role.  However, in order to keep the GitHub issues list focused on "issues" we ask the community to raise questions at https://discuss.elastic.co/c/elasticsearch.  This is monitored by the maintainers.
+=======
+ELK setup by Ansible
+>>>>>>> b0cb0faedb78f54eab90f63220d122301e8b235b
